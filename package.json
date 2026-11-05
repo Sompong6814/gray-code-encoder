@@ -1,6 +1,6 @@
 {
   "name": "gray-code-encoder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Encode and decode Gray code for unsigned integers of any bit width",
   "type": "module",
   "main": "src/index.js",
